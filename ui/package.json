@@ -1,0 +1,23 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "React based simple game to polish my React knowledge",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YohanAvishke/tic-tac-toe.git"
+  },
+  "keywords": [],
+  "author": "Yohan Avishke",
+  "bugs": {
+    "url": "https://github.com/YohanAvishke/tic-tac-toe/issuess"
+  },
+  "homepage": "https://github.com/YohanAvishke/tic-tac-toe",
+  "dependencies": {
+    "react": "16.5.2",
+    "react-dom": "16.5.2"
+  }
+}
