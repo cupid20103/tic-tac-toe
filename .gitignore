@@ -1,3 +1,4 @@
 /.idea
-/package-lock.json
-/node_modules
+/ui/package-lock.json
+/ui/node_modules
+/ui/.env
